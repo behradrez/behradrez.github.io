@@ -1,0 +1,51 @@
+[
+    {
+        "title":"Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "C",
+        "imageSrc": "skills/c.png"
+    },
+    
+    {
+        "title": "MS Azure",
+        "imageSrc": "skills/azure.png"
+    },
+    {
+        "title": "PostgreSQL",
+        "imageSrc": "skills/postgresql.svg"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "JavaScipt",
+        "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "Bash",
+        "imageSrc": "skills/bash.svg" 
+    },
+    {
+        "title": "and much more",
+        "imageSrc": "skills/muchmore.png" 
+    }
+  ]
