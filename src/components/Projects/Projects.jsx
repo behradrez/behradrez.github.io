@@ -10,13 +10,13 @@ export const Projects = () => {
 
     <ul className={styles.projectsList}>
       <li className={styles.specificProject}>
-      <SingleProject name="AssetPlus"description="Hotel employee & asset management system" gitLink="https://github.com/behradrez/AssetPlus" />
+      <SingleProject name="AssetPlus" imageUrl={"projects/assetplus.png"} description="Hotel employee & asset management system" gitLink="https://github.com/behradrez/AssetPlus" />
       </li>
       <li className={styles.specificProject}>
-      <SingleProject name="PyChess"description="Chess in Python" gitLink="https://github.com/behradrez/PyChess" />
+      <SingleProject name="PyChess" imageUrl={"projects/pychess.png"} description="Chess in Python" gitLink="https://github.com/behradrez/PyChess" />
       </li>
       <li className={styles.specificProject}>
-      <SingleProject name="RamQ Detector"description="RamQ detector" gitLink="https://github.com/behradrez/RamQDetector"  />
+      <SingleProject name="RamQ Detector" imageUrl={"projects/ramqdetector.png"} description="RamQ detector" gitLink="https://github.com/behradrez/RamQDetector"  />
       </li>
       <li className={styles.specificProject}>
       <SingleProject name="harrypotter"description="placeholder project" />

@@ -19,6 +19,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
-
+.projectImage{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
