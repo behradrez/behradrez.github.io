@@ -14,21 +14,28 @@ export const About = () => {
                 <img id='cursor' className={styles.itemImage} src={getImageUrl("about/cursorIcon.svg")}/>
                 <div className={styles.aboutItemText}>
                     <h3>Frontend Developer</h3>
-                    <p>Frontend dev with experience in plenty of stuff</p>
+                    <p>Experienced with various modern frontend languages and frameworks, I have brought
+                        several apps to life with smooth, intuitive, and seamless interfaces.   
+                    </p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
                 <img className={styles.itemImage} src={getImageUrl("about/serverIcon.svg")}/>
                 <div className={styles.aboutItemText}>
                     <h3>Backend Developer</h3>
-                    <p>backend dev with experience in plenty of othr stuff</p>
+                    <p>As a full-stack developer, I have deep knowledge of API design and 
+                        database management with a variety of tools and services.
+                    </p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
-                <img className={styles.itemImage} src={getImageUrl("about/serverIcon.svg")}/>
+                <img className={styles.itemImage} src={getImageUrl("about/overcome.svg")}/>
                 <div className={styles.aboutItemText}>
-                    <h3>UI Design</h3>
-                    <p>no idea what third thing to add here</p>
+                    <h3>Leader & Team Player</h3>
+                    <p>Through my unique academic and extracurricular background, 
+                        I have developed strong leadership and teamworking skills. 
+                        With great communication and a challenge embracing mindset, any and all problems are surmountable.
+                    </p>
                 </div>
             </li>
         </ul>

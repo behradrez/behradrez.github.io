@@ -19,13 +19,17 @@
     .container{
         margin-top: 70px;
     }
+    .projectsList{
+        margin: auto;
+        width: 50%;
+    }
 }
 .specificProject{
     list-style: none;
     width: 300px;
     height: 400px;
     align-items: flex-start;
-    margin-right: auto;
+    margin: auto;
     border-radius: 100px;
     margin-bottom: 20px;
 }

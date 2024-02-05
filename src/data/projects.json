@@ -1,7 +1,7 @@
 [
     {
       "name": "AssetPlus",
-      "description": "Hotel employee & asset management system",
+      "description": "Hotel management system",
       "imageUrl": "projects/assetplus.png",
       "language": "Java",
       "tech1": "UML",

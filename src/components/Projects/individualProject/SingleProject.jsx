@@ -11,7 +11,7 @@ export const SingleProject = ({ name,imageUrl, description, language, tech1, tec
       <ul className={styles.content}>
         <img className={styles.projectImage} src={getImageUrl(`${imageUrl}`)}/>
         <h1>{name}</h1>
-        <p>{description}</p>
+        <p className={styles.description}>  {description}</p>
 
         <ul className={styles.toolsUsed}>
           {language && <li>
