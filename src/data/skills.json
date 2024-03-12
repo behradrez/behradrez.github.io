@@ -1,25 +1,30 @@
 [
+  {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+  },
+  {
+      "title": "Spring Boot",
+      "imageSrc": "skills/springboot.png"
+    },
     {
         "title":"Python",
         "imageSrc": "skills/python.png"
     },
     {
-        "title": "Java",
-        "imageSrc": "skills/java.png"
-    },
-    {
         "title": "C",
         "imageSrc": "skills/c.png"
     },
-    
+       {
+      "title": "PostgreSQL",
+      "imageSrc": "skills/postgresql.svg"
+  },
     {
-        "title": "MS Azure",
-        "imageSrc": "skills/azure.png"
-    },
-    {
-        "title": "PostgreSQL",
-        "imageSrc": "skills/postgresql.svg"
-    },
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },    
+  
+ 
     {
       "title": "HTML",
       "imageSrc": "skills/html.png"
@@ -32,14 +37,11 @@
         "title": "JavaScipt",
         "imageSrc": "skills/javascript.png"
     },
+
     {
-      "title": "React",
-      "imageSrc": "skills/react.png"
-    },
-    {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
-    },
+      "title": "MS Azure",
+      "imageSrc": "skills/azure.png"
+  },
     {
         "title": "Bash",
         "imageSrc": "skills/bash.svg" 
