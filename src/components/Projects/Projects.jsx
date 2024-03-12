@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from "./Projects.module.css";
-import { SingleProject } from './individualProject/singleProject';
+import { SingleProject } from './individualProject/SingleProject';
 
 
 export const Projects = () => {
