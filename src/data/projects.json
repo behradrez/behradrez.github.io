@@ -1,29 +1,55 @@
 [
+  {
+    "name": "Stock Sentiment Tracker",
+    "description": "Web scraper & Sentiment Analysis",
+    "imageUrl": "projects/stocksentiment.png",
+    "language": "Python",
+    "tech1": "Selenium",
+    "tech2": "Flask+React",
+    "gitLink": "https://github.com/behradrez/StockSentimentTracker"
+  }  
+  ,{
+      "name": "SportsCenter App",
+      "description": "Full-stack event registration app",
+      "imageUrl": "projects/sportscenter.png",
+      "language": "Java",
+      "tech1": "ReactJS",
+      "tech2": "PostgreSQL",
+      "gitLink": "https://github.com/behradrez/SportsCenterApplication"
+    },
     {
       "name": "Hotel Management System",
       "description": "Hotel management system",
       "imageUrl": "projects/assetplus.png",
       "language": "Java",
       "tech1": "UML",
-      "tech2": "Gherkin BDD",
+      "tech2": "TDD + BDD",
       "gitLink": "https://github.com/behradrez/AssetPlus"
+    },
+    {
+      "name": "Online Portfolio",
+      "language": "ReactJS",
+      "tech1" : "Vite",
+      "tech2" : "CSS",
+      "imageUrl": "projects/portfolio.png",
+      "description": "My online portfolio",
+      "gitLink": "https://github.com/behradrez/behradrez.github.io"
     },
     {
       "name": "PyChess",
       "description": "Chess written in Python",
       "imageUrl": "projects/pychess.png",
       "language": "Python",
-      "tech1": "magic",
-      "tech2": "projects/koasec.png",
+      "tech2": "PyGame",
       "gitLink": "https://github.com/behradrez/PyChess"
     },
     {
       "name": "RamQ Detector",
-      "description": "",
+      "description": "RamQ automation services",
       "imageUrl": "projects/ramqdetector.png",
       "language": "Python",
-      "tech1": "magic",
-      "tech2": "projects/koasec.png",
+      "tech1": "OpenPyXL",
+      "tech2": "OCR",
       "gitLink": "https://github.com/behradrez/RamQDetector"
     }
   ]
