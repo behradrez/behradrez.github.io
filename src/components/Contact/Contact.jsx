@@ -10,15 +10,21 @@ export const Contact = () => {
             <h1>Contact Me!</h1>
             <p>Reach out on LinkedIn for more information, or check out my projects on Github!</p>
         </div>
-        <ul className={styles.links}>
+        <ul className={styles.links}> 
+            <a href="https://www.linkedin.com/in/behradrez">
             <li className={styles.link}>
                 <img src={getImageUrl("contact/linkedinIcon.png")}></img>
-                <a href="https://www.linkedin.com/in/behradrezaie/">linkedin.com/behradrezaie</a>
+                <p>View my LinkedIn</p>
             </li>
+
+            </a>
+            <a href='href="https://github.com/behradrez'>
+
             <li className={styles.link} href="https://github.com/behradrez">
                 <img src={getImageUrl("contact/githubIcon.png")}></img>
-                <a href="https://github.com/behradrez">github.com/behradrez</a>
+                <p >View my GitHub</p>
             </li>
+            </a>
         </ul>
     </footer>
   
