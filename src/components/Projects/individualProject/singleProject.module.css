@@ -10,11 +10,12 @@
     background: linear-gradient(0deg, rgba(37,2,126,0.8)0%, rgba(0,0,0,0.2)100%);
     padding-top: 10px;
     padding-bottom: 10px;
-    width: 300px;
-    height: 400px;
-    max-height: 400px;
-    border-radius: 50px;
+    width: 260px;
+    height: 375px;
+    
+    border-radius: 30px;
     transition-duration: 0.5s;
+    
 }
 .container:hover{
     transform: scale(105%);
@@ -57,4 +58,8 @@
     background-color: var(--color-dark);
     border-radius: 5px;
     padding: 5px;
+    text-align: center;
+}
+.projectName{
+    text-align: center;
 }

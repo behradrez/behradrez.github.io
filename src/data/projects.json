@@ -44,8 +44,8 @@
       "gitLink": "https://github.com/behradrez/PyChess"
     },
     {
-      "name": "RamQ Detector",
-      "description": "RamQ automation services",
+      "name": "MedSite Services",
+      "description": "Automated Medical Office Work",
       "imageUrl": "projects/ramqdetector.png",
       "language": "Python",
       "tech1": "OpenPyXL",
