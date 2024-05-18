@@ -19,10 +19,7 @@
     .container{
         margin-top: 70px;
     }
-    .projectsList{
-        margin: auto;
-        width: 50%;
-    }
+    
 }
 .specificProject{
     list-style: none;
@@ -38,4 +35,5 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    align-items: center;
 }
