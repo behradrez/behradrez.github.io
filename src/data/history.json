@@ -1,10 +1,18 @@
 [
-    {
-      "role": "Software Engineer Intern",
-      "organisation": "Koasec",
-      "startDate": "June 2023",
-      "endDate": " September 2023",
-      "experiences": ["Developed web application", "Automated several routine tasks"],
-      "imageSrc": "history/koasec.png"
-    }
-  ]
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Koasec",
+    "startDate": "May 2024",
+    "endDate": " August 2024",
+    "experiences": ["Developed Flutter mobile application", "Extended NextJS+Flask web application","Automated Azure infrastructure deployment"],
+    "imageSrc": "history/koasec.png"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Koasec",
+    "startDate": "July 2023",
+    "endDate": " September 2023",
+    "experiences": ["Developed Flask web application", "Automated several routine tasks","Developed several workflows with Azure Logic Apps"],
+    "imageSrc": "history/koasec.png"
+  }
+]

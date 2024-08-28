@@ -7,7 +7,7 @@ export const Hero = () => {
     <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>
-                Hi, I'm Nick
+                Hi, I'm Behrad
             </h1>
             <p className={styles.description}>
                 I am a 3rd year computer engineering student at McGill University and a passionate software developer. Scroll down to learn more about me!
